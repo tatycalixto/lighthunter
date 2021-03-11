@@ -6,13 +6,6 @@ Jogo Light Hunter criado na QUARANTINE JAM - 2020
 
 <p>Que vença o melhor...</p>
 
-Team:
-
-Tatyane Calixto - Programmer
-Amanda Calixto - Game Artist and Animation 2D
-Paloma Silva - Game Designer
-Emmanuel Peixoto - Sound Designer and Composition
-Carol Crivelin - Animation 2D
 ### Equipe: 
 |Nome|Perfil|
 | -------- | -------- |
