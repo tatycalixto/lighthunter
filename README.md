@@ -15,7 +15,7 @@ Emmanuel Peixoto - Sound Designer and Composition
 Carol Crivelin - Animation 2D
 ### Equipe: 
 |Nome|Perfil|
-| -------- | -------- | -------- |
+| -------- | -------- |
 |Tatyane Calixto |Programmer|
 |Amanda Calixto |Game Artist and Animation 2D|
 |Paloma Silva |Game Designer|
