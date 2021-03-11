@@ -13,3 +13,13 @@ Amanda Calixto - Game Artist and Animation 2D
 Paloma Silva - Game Designer
 Emmanuel Peixoto - Sound Designer and Composition
 Carol Crivelin - Animation 2D
+### Equipe: 
+|Nome|Perfil|
+| -------- | -------- | -------- |
+|Tatyane Calixto |Programmer|
+|Amanda Calixto |Game Artist and Animation 2D|
+|Paloma Silva |Game Designer|
+|Emmanuel Peixoto |Sound Designer and Composition|
+|Carol Crivelin |Animation 2D|
+<p> Link para jogar </p>
+<a href="https://tatycalixto.itch.io/light-hunter"> Light Hunter </a>
