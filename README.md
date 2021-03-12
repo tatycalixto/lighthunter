@@ -1,4 +1,4 @@
-# Light Hunter Parte 1
+# Light Hunter
 Jogo Light Hunter criado na QUARANTINE JAM - 2020
 <h1> Roube a luz para sobreviver!</h1>
 
