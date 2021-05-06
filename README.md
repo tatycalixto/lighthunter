@@ -14,5 +14,5 @@ Jogo Light Hunter criado na QUARANTINE JAM - 2020
 |Paloma Silva |Game Designer|
 |Emmanuel Peixoto |Sound Designer and Composition|
 |Carol Crivelin |Animation 2D|
-<p> Link para jogar </p>
+<p> Para Jogar: </p>
 <a href="https://tatycalixto.itch.io/light-hunter"> Light Hunter </a>
